@@ -26,7 +26,7 @@
             "/report/*",
             "/account/*",
             "/digest/*"
-            "/test_link/"
+            "/test_link/*"
            ]
         }
       ]
