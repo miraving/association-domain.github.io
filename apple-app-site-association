@@ -17,9 +17,17 @@
         },
         {
           "appID": "UNLP37NS2E.com.15five.15Five-dev",
-          "paths": [
-            "*"
-          ]
+          "paths": [ 
+            "NOT /saml2/*",
+            "/high_fives/*",
+            "/objectives/*",
+            "/one-on-one/*",
+            "/answer/*",
+            "/report/*",
+            "/account/*",
+            "/digest/*"
+            "/test_link/"
+           ]
         }
       ]
     }
