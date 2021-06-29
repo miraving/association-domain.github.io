@@ -3,30 +3,11 @@
       "apps": [],
       "details": [
         {
-          "appID": "UNLP37NS2E.com.15five.15Five",
-          "paths": [
-            "NOT /saml2/*",
-            "/high_fives/*",
-            "/objectives/*",
-            "/one-on-one/*",
-            "/answer/*",
-            "/report/*",
-            "/account/*",
-            "/digest/*"
-          ]
-        },
-        {
-          "appID": "UNLP37NS2E.com.15five.15Five-dev",
+          "appID": "UNLP37NS2E.com.test.universal-link",
           "paths": [ 
-            "NOT /saml2/*",
-            "/high_fives/*",
-            "/objectives/*",
-            "/one-on-one/*",
-            "/answer/*",
-            "/report/*",
-            "/account/*",
-            "/digest/*"
-            "/test_link/*"
+            "/test_link/*",
+            "/open_app/*",
+            "/navigate_to__new_screen/*"
            ]
         }
       ]
