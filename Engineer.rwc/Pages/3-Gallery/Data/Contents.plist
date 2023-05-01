@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>FlashSlideshowSettings</key>
+				<dict>
+					<key>FlickRSSEnabled</key>
+					<false/>
+					<key>ImageHeight</key>
+					<integer>320</integer>
+					<key>ImageScalingMode</key>
+					<integer>1</integer>
+					<key>ImageWidth</key>
+					<integer>460</integer>
+					<key>KenBurnsEffectSpeed</key>
+					<real>3</real>
+					<key>KenBurnsEffectType</key>
+					<integer>4</integer>
+					<key>ShowCaptions</key>
+					<false/>
+					<key>ShowControls</key>
+					<true/>
+					<key>ShowProgressIconWhileLoading</key>
+					<true/>
+					<key>TransitionPauseTime</key>
+					<real>3</real>
+					<key>TransitionSpeed</key>
+					<real>1</real>
+					<key>TransitionType</key>
+					<integer>14</integer>
+				</dict>
+				<key>HTMLSlideshowSettings</key>
+				<dict>
+					<key>CaptionsDisplayMode</key>
+					<integer>1</integer>
+					<key>EXIFTagsShown</key>
+					<array>
+						<string>ExposureTime</string>
+						<string>ISOSpeedRatings</string>
+						<string>ShutterSpeedValue</string>
+						<string>ApertureValue</string>
+						<string>MakerNote</string>
+						<string>UserComment</string>
+						<string>PixelXDimension</string>
+						<string>PixelYDimension</string>
+						<string>ImageUniqueID</string>
+					</array>
+					<key>ImageExportQuality</key>
+					<integer>1</integer>
+					<key>ImageExportScalingEnabled</key>
+					<true/>
+					<key>ImageExportScalingHeight</key>
+					<integer>6000</integer>
+					<key>ImageExportScalingWidth</key>
+					<integer>640</integer>
+					<key>ImageExportUsesHighQualityScaling</key>
+					<true/>
+					<key>NavigationHomeLinkText</key>
+					<string>Home</string>
+					<key>NavigationHomeLinkTextDerivedFromPageTitle</key>
+					<false/>
+					<key>NavigationNextLinkText</key>
+					<string>Next</string>
+					<key>NavigationPreviousLinkText</key>
+					<string>Previous</string>
+					<key>ShowEXIFTags</key>
+					<false/>
+					<key>ShowMissingEXIFTags</key>
+					<false/>
+					<key>ThumbnailScaleFactor</key>
+					<real>1.2124999761581421</real>
+					<key>ThumbnailsAreSquare</key>
+					<true/>
+				</dict>
+				<key>PhotoData</key>
+				<dict>
+					<key>CustomAlbum</key>
+					<dict>
+						<key>Description</key>
+						<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non.</string>
+						<key>Images</key>
+						<array>
+							<dict>
+								<key>UUID</key>
+								<string>010304C9-1186-42F0-947E-91CFCAC4A738</string>
+								<key>caption</key>
+								<string>christopher-gower-291240-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Mac Photography</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>christopher-gower-291240-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mac/small/christopher-gower-291240-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>6BD6BD17-5093-4EE3-95E8-805FA3820BA9</string>
+								<key>caption</key>
+								<string>drew-coffman-435402-unsplash.jpg</string>
+								<key>comment</key>
+								<string>New  Products</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>drew-coffman-435402-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mac/small/drew-coffman-435402-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>55A80C2F-A483-4B24-A620-2BA60FA142AD</string>
+								<key>caption</key>
+								<string>eleven-x-517447-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Working in 2018</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>eleven-x-517447-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mac/small/eleven-x-517447-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>4F3B5BB4-566E-4014-9E52-52C39BCAEAE1</string>
+								<key>caption</key>
+								<string>gabriel-beaudry-253365-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Home Setup</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>gabriel-beaudry-253365-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mac/small/gabriel-beaudry-253365-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>BC793D04-8D8F-4056-9A6D-D06F51DC697D</string>
+								<key>caption</key>
+								<string>iswanto-arif-435716-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Home Setup II</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>iswanto-arif-435716-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mac/small/iswanto-arif-435716-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>558FC034-7E03-41F4-9BBB-88D6EC33D8A5</string>
+								<key>caption</key>
+								<string>grovemade-239370-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Mac Accessories</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>grovemade-239370-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mac/small/grovemade-239370-unsplash.jpg</string>
+							</dict>
+						</array>
+						<key>Name</key>
+						<string>Photo Gallery</string>
+					</dict>
+				</dict>
+				<key>SlideshowMode</key>
+				<integer>0</integer>
+				<key>SortOrder</key>
+				<integer>0</integer>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>010304C9-1186-42F0-947E-91CFCAC4A738</string>
+				<string>4F3B5BB4-566E-4014-9E52-52C39BCAEAE1</string>
+				<string>558FC034-7E03-41F4-9BBB-88D6EC33D8A5</string>
+				<string>55A80C2F-A483-4B24-A620-2BA60FA142AD</string>
+				<string>6BD6BD17-5093-4EE3-95E8-805FA3820BA9</string>
+				<string>BC793D04-8D8F-4056-9A6D-D06F51DC697D</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Photo Album Data</string>
+</dict>
+</plist>

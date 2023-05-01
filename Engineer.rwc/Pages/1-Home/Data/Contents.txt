@@ -1,0 +1,37 @@
+I am a person who is motivated by technologies of different directions, but my main passion is for developing IOS applications. I have a very extensive development experience in various fields of human activity including banks, hospitals and aviation. I am also interested in security in all IT areas. 
+I'm married and have a super restless kid who is almost 3 years old. I spend my free time on self-development or reading books.
+I will be happy to share my experience in project management and development.
+
+
+> Experience
+
+_2019 - 2022_
+
+**15Five** | 12 Gallagher Lane, San Francisco, CA 94109
+ 
+**Senior iOS Engineer**
+
+The main idea of the project is to create the opportunity to fill the report as conveniently and quickly as possible.
+My role in the project is a key developer. The application was created in 2014. We are using the next programming languages as Objective-C and Swift. Technologies on the project: CoreData, AFNetworking/Alamofire, OperationQueue, Rest API, and UIKit. When I got to the project, I remember that the project has a 3% of Swift code - now this figure is 78%. Step by step the team transformed the project into Swift.
+
+<img src="https://images.unsplash.com/photo-1515248137880-45e105b710e0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjQ5fQ&s=8f78f0d809976c9e2b946f93062e79c6" class="mt-4 rounded" />
+
+
+_2018 - 2019_
+
+**Softserve** | 2D Sadova Street, Lviv, UA 79021
+
+**Senior iOS Engineer | Tech Lead**
+
+My best project. I started this project for the VIVINT company. I used RxSwift technologies and it was a really good idea because for 4 months the project core changed a few times and it was simple to change some functionality. The stack of technologies was RxSwift, Alamofire, Auth, SnapKit, Mapping, and a few libraries for realizing good animation.
+After one month I got a new position as the Project Technical Lead. So, I had to manage the iOS team and Android. I had to check all pull requests by the team and I had a lot of discussions for functionality edge cases and UI/UX with customers.
+
+
+
+_2017 - 2018_
+
+**REMIT** | 38 Djerelna Street, Lviv, UA 79000
+
+**Senior iOS Engineer**
+
+Lots of projects were made here. My favorite was Excurzo. It was a social network for tracking and sharing active adventures with a high focus on geo data. The stack of technologies was Alamofire, CoreData, CoreLocation, and UIKit.
