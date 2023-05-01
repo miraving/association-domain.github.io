@@ -31,7 +31,34 @@
 					<string>7.0</string>
 				</dict>
 				<key>PublishingManifests</key>
-				<dict/>
+				<dict>
+					<key>file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2023-05-01T10:16:18Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								mf+1maJrXOJk
+								NRRxnoSpLQ==
+								</data>
+								<key>Size</key>
+								<integer>6536</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page0</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
 			</dict>
 			<key>Files</key>
 			<array/>
