@@ -14,7 +14,7 @@
 				<key>ArchivePostsPeriod</key>
 				<integer>1</integer>
 				<key>ArchivePostsShowGaps</key>
-				<true/>
+				<false/>
 				<key>Categories</key>
 				<array>
 					<dict>
@@ -61,19 +61,19 @@
 				<key>DateModifier1</key>
 				<string>dd</string>
 				<key>DateModifier2</key>
-				<string>MM</string>
+				<string>MMM</string>
 				<key>DateModifier3</key>
-				<string>yy</string>
+				<string>yyyy</string>
 				<key>DateModifier4</key>
 				<string>HH:mm</string>
 				<key>DateSeparatorText1</key>
-				<string>/</string>
+				<string> </string>
 				<key>DateSeparatorText2</key>
-				<string>/</string>
+				<string> </string>
 				<key>DateSeparatorText3</key>
 				<string> </string>
 				<key>DateSeparatorText4</key>
-				<string> </string>
+				<string></string>
 				<key>EnableCommentsInline</key>
 				<false/>
 				<key>EnableCustomiTunesTags</key>
@@ -81,11 +81,77 @@
 				<key>EnablePodcasting</key>
 				<true/>
 				<key>EnableRSS</key>
-				<true/>
+				<false/>
 				<key>EnableSmileys</key>
 				<false/>
 				<key>Entries</key>
 				<array>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>bef08df8454095f3da33dbc1a74f9284</string>
+						<key>ID</key>
+						<integer>4</integer>
+						<key>Posted</key>
+						<date>2019-09-01T11:09:01Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>15Five</string>
+						<key>openGraphDescription</key>
+						<string></string>
+						<key>openGraphImage</key>
+						<string></string>
+						<key>openGraphTitle</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>e5361bedceac050f891dddafefc57a76</string>
+						<key>ID</key>
+						<integer>3</integer>
+						<key>Posted</key>
+						<date>2018-12-29T11:59:16Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>SoftServe</string>
+						<key>openGraphDescription</key>
+						<string></string>
+						<key>openGraphImage</key>
+						<string></string>
+						<key>openGraphTitle</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>e64e998a57f1566413f44e95664b5e10</string>
+						<key>ID</key>
+						<integer>2</integer>
+						<key>Posted</key>
+						<date>2017-02-01T11:55:06Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>REMIT</string>
+						<key>openGraphDescription</key>
+						<string></string>
+						<key>openGraphImage</key>
+						<string></string>
+						<key>openGraphTitle</key>
+						<string></string>
+					</dict>
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
@@ -98,7 +164,7 @@
 						<key>Posted</key>
 						<date>2018-07-16T12:24:53Z</date>
 						<key>PublishStatus</key>
-						<integer>1</integer>
+						<integer>0</integer>
 						<key>Title</key>
 						<string>Use the right tool, at the right time.</string>
 						<key>openGraphDescription</key>
@@ -120,7 +186,7 @@
 						<key>Posted</key>
 						<date>2018-07-16T12:23:21Z</date>
 						<key>PublishStatus</key>
-						<integer>1</integer>
+						<integer>0</integer>
 						<key>Title</key>
 						<string>Top 5 Engineering Tricks</string>
 						<key>openGraphDescription</key>
@@ -132,15 +198,17 @@
 					</dict>
 				</array>
 				<key>GeneratePermalinkPages</key>
-				<true/>
+				<false/>
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2018-07-16T12:23:17Z</date>
+				<date>2023-05-01T11:09:45Z</date>
 				<key>LastID</key>
-				<integer>2</integer>
+				<integer>5</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2018-07-16T12:23:17Z</date>
+				<key>LocaliseDate</key>
+				<true/>
 				<key>NumberOfFrontPagePosts</key>
 				<integer>5</integer>
 				<key>PermalinkText</key>
@@ -182,6 +250,12 @@
 				<string>1-Summary.as</string>
 				<string>2-Body.as</string>
 				<string>2-Summary.as</string>
+				<string>3-Body.as</string>
+				<string>3-Summary.as</string>
+				<string>4-Body.as</string>
+				<string>4-Summary.as</string>
+				<string>5-Body.as</string>
+				<string>5-Summary.as</string>
 			</array>
 			<key>Subsandwiches</key>
 			<array/>
