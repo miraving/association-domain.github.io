@@ -16,7 +16,7 @@
 					<key>page0 - file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-05-01T10:16:18Z</date>
+						<date>2023-05-09T13:09:27Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -25,11 +25,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								mf+1maJrXOJk
-								NRRxnoSpLQ==
+								lbhsiynXlXVA
+								1xaqkdkTrw==
 								</data>
 								<key>Size</key>
-								<integer>6536</integer>
+								<integer>6696</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -42,70 +42,60 @@
 					<key>page1 - file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-05-01T10:16:18Z</date>
+						<date>2023-05-09T13:09:27Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/a6a2f6567d0f2b643627d72810c51b33-1.html</key>
+							<key>files/archive-december-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								XYKL6lw3mTw6
-								GqafhhG4FQ==
+								ffW7JHebFW7w
+								CJY0Q2fOvA==
 								</data>
 								<key>Size</key>
-								<integer>6064</integer>
+								<integer>5780</integer>
 							</dict>
-							<key>files/archive-july-2018.html</key>
+							<key>files/archive-february-2017.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								jWR9JR5bSmbB
-								2FBQkYTM3A==
+								mivM6sMCXqH0
+								iOKUqlxQBA==
 								</data>
 								<key>Size</key>
-								<integer>5639</integer>
+								<integer>6011</integer>
 							</dict>
-							<key>files/bfa3f4a54f751eca97c43daff489838f-0.html</key>
+							<key>files/archive-september-2019.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Q2gD6w/xdY4N
-								aGybH7Se7w==
+								n8UQ2rhaDSmc
+								rAp/B4tf3A==
 								</data>
 								<key>Size</key>
-								<integer>6036</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								9Mf+F64qD9aJ
-								sPbAlpXTjQ==
-								</data>
-								<key>Size</key>
-								<integer>2512</integer>
+								<integer>5833</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								YM8Iwaz32ELb
-								9Zq66v3bng==
+								4gqd31ytzDu8
+								oCjSmvC6AQ==
 								</data>
 								<key>Size</key>
-								<integer>1965</integer>
+								<integer>1701</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								WNGLudhdEt01
-								POcSTpKL3A==
+								4wzXgi+gkayX
+								gKFI7tLIvg==
 								</data>
 								<key>Size</key>
-								<integer>5399</integer>
+								<integer>8763</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -324,7 +314,7 @@
 					<key>rw:document:extrafiles - file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-05-01T10:16:18Z</date>
+						<date>2023-05-09T13:09:27Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -353,11 +343,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								rWKlZw8n66y9
-								CoKbYbw9eQ==
+								xeqhT71aerlf
+								a3AUk3Ab6Q==
 								</data>
 								<key>Size</key>
-								<integer>176</integer>
+								<integer>845</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -829,8 +819,8 @@
 				gBOAAIAAgA+AC4AKgA2ADF8QJEFGMEMwQTFELThDNkMt
 				NDBERS04NTQwLTREMzQwRUEzNEZDN1xlbmdpbmVlci5w
 				bmdfECRBM0QxQThEQS0xRDUxLTRGRDktQjE2OS04QkUw
-				MTJEMkFFMkbSAE8ADwBQAFFXTlMudGltZSNBxP/keccR
-				jIAO0gAmACcAUwBUVk5TRGF0ZaIAUwAr0wANAA4ADwBW
+				MTJEMkFFMkbSAE8ADwBQAFFXTlMudGltZSNBxQU+xFeD
+				BoAO0gAmACcAUwBUVk5TRGF0ZaIAUwAr0wANAA4ADwBW
 				AFgAWqEAV4AQoQBZgBGAEl8QQmZpbGU6Ly8vVXNlcnMv
 				dml0YWxpaW9iZXJ0eW5za3lpL0Rldi9hc3NvY2lhdGlv
 				bi1kb21haW4uZ2l0aHViLmlvLwjSACYAJwBeAF9fEBNO
@@ -848,7 +838,7 @@
 				ZmFXUWlPakV6TWpRNWZRJnM9NzE3YmI3N2VlODBlZjIx
 				NDIxOWRkZDZiNDkzZmZiZTnTAHQADwB1AEIAdwBvV05T
 				LmJhc2VbTlMucmVsYXRpdmWAAIAZgBfSACYAJwB6AHtV
-				TlNVUkyiAHoAK9IATwAPAH0AUSNBxP/keccSCoAO0wAN
+				TlNVUkyiAHoAK9IATwAPAH0AUSNBxQU+xFeDhIAO0wAN
 				AA4ADwCAAIIAWqEAgYAcoQBZgBGAEl8QQmZpbGU6Ly8v
 				VXNlcnMvdml0YWxpaW9iZXJ0eW5za3lpL0Rldi9hc3Nv
 				Y2lhdGlvbi1kb21haW4uZ2l0aHViLmlvL9oAOQA6AA8A
@@ -862,7 +852,7 @@
 				cHkmY3M9dGlueXNyZ2Imdz0xMDgwJmZpdD1tYXgmaXhp
 				ZD1leUpoY0hCZmFXUWlPakV6TWpRNWZRJnM9YTQxOGIy
 				MDI0YmIzMGEzYTM3MjE3Y2E1MmNiYjNmMmPTAHQADwB1
-				AEIAdwCQgACAGYAg0gBPAA8AmQBRI0HE/+R5xxI0gA7T
+				AEIAdwCQgACAGYAg0gBPAA8AmQBRI0HFBT7EV4OugA7T
 				AA0ADgAPAJwAngBaoQCdgCShAFmAEYASXxBCZmlsZTov
 				Ly9Vc2Vycy92aXRhbGlpb2JlcnR5bnNreWkvRGV2L2Fz
 				c29jaWF0aW9uLWRvbWFpbi5naXRodWIuaW8v2gA5ADoA
@@ -871,7 +861,7 @@
 				MjBCMC00MkYwLTg2MkEtRUFBNzM1MzdGMkVGXxAXMjAx
 				MS0xMS0wN18yMi0xMS01MC5qcGdfECRDNTk3OUUxNy05
 				NDEzLTQ0QzQtOEJCRS1EMzk2QjFBMjY2QjPSAE8ADwCx
-				AFEjQcT/5HnHEl6ADtMADQAOAA8AtAC2AFqhALWAK6EA
+				AFEjQcUFPsRXg9iADtMADQAOAA8AtAC2AFqhALWAK6EA
 				WYARgBJfEEJmaWxlOi8vL1VzZXJzL3ZpdGFsaWlvYmVy
 				dHluc2t5aS9EZXYvYXNzb2NpYXRpb24tZG9tYWluLmdp
 				dGh1Yi5pby9fEEQvVXNlcnMvdml0YWxpaW9iZXJ0eW5z
@@ -887,7 +877,7 @@
 				T1h3d2ZERjhjMlZoY21Ob2ZEUXhmSHh0WVdOaWIyOXJm
 				R1Z1ZkRCOGZIeDhNVFk0TWprek5UVTROdyZpeGxpYj1y
 				Yi00LjAuMyZxPTgwJnc9MTA4MNMAdAAPAHUAQgB3AMWA
-				AIAZgDDSAE8ADwDOAFEjQcT/5HnHEn+ADtMADQAOAA8A
+				AIAZgDDSAE8ADwDOAFEjQcUFPsRXhAKADtMADQAOAA8A
 				0QDTAFqhANKANKEAWYARgBJfEEJmaWxlOi8vL1VzZXJz
 				L3ZpdGFsaWlvYmVydHluc2t5aS9EZXYvYXNzb2NpYXRp
 				b24tZG9tYWluLmdpdGh1Yi5pby/aADkAOgAPADsAPAA9
@@ -901,7 +891,7 @@
 				bnd4TXpJME9Yd3dmREY4YzJWaGNtTm9mRGg4ZkcxaFky
 				SnZiMnQ4Wlc1OE1IeDhmSHd4TmpneU9UTTFOVGcyJml4
 				bGliPXJiLTQuMC4zJnE9ODAmdz0xMDgw0wB0AA8AdQBC
-				AHcA4YAAgBmAONIATwAPAOoAUSNBxP/keccSoYAO0wAN
+				AHcA4YAAgBmAONIATwAPAOoAUSNBxQU+xFeEI4AO0wAN
 				AA4ADwDtAO8AWqEA7oA8oQBZgBGAEl8QQmZpbGU6Ly8v
 				VXNlcnMvdml0YWxpaW9iZXJ0eW5za3lpL0Rldi9hc3Nv
 				Y2lhdGlvbi1kb21haW4uZ2l0aHViLmlvL9oAOQA6AA8A
@@ -915,8 +905,8 @@
 				eGlkPU1ud3hNekkwT1h3d2ZERjhjMlZoY21Ob2ZERXlm
 				SHh0WVdOaWIyOXJmR1Z1ZkRCOGZIeDhNVFk0TWprek5U
 				VTROZyZpeGxpYj1yYi00LjAuMyZxPTgwJnc9MTA4MNMA
-				dAAPAHUAQgB3AP2AAIAZgEDSAE8ADwEGAFEjQcT/5HnH
-				EsKADtMADQAOAA8BCQELAFqhAQqARKEAWYARgBJfEEJm
+				dAAPAHUAQgB3AP2AAIAZgEDSAE8ADwEGAFEjQcUFPsRX
+				hEWADtMADQAOAA8BCQELAFqhAQqARKEAWYARgBJfEEJm
 				aWxlOi8vL1VzZXJzL3ZpdGFsaWlvYmVydHluc2t5aS9E
 				ZXYvYXNzb2NpYXRpb24tZG9tYWluLmdpdGh1Yi5pby/a
 				ADkAOgAPADsAPAA9ABcAPgA/AEAAZgBCAEMBEwBCARUB
@@ -930,7 +920,7 @@
 				Tm9mREl4Zkh4dFlXTmliMjlyZkdWdWZEQjhmSHg4TVRZ
 				NE1qa3pOVFU0TncmaXhsaWI9cmItNC4wLjMmcT04MCZ3
 				PTEwODDTAHQADwB1AEIAdwEZgACAGYBI0gBPAA8BIgBR
-				I0HE/+R5xxLkgA7TAA0ADgAPASUBJwBaoQEmgEyhAFmA
+				I0HFBT7EV4RvgA7TAA0ADgAPASUBJwBaoQEmgEyhAFmA
 				EYASXxBCZmlsZTovLy9Vc2Vycy92aXRhbGlpb2JlcnR5
 				bnNreWkvRGV2L2Fzc29jaWF0aW9uLWRvbWFpbi5naXRo
 				dWIuaW8v2gA5ADoADwA7ADwAPQAXAD4APwBAAEEBLQBD
@@ -938,7 +928,7 @@
 				XxAkQTVENjBBMjItMzZDNC00MjlBLTkxNkQtQjVBOEU5
 				QTAzREY4XxAPcXItbGlua2VkaW4ucG5nXxAkNzlDMDM0
 				RDQtREFFRi00OTQ5LUFFNTYtNDM0N0E0MzkyNkMy0gBP
-				AA8BOgBRI0HE/+R5xxMGgA7TAA0ADgAPAT0BPwBaoQE+
+				AA8BOgBRI0HFBT7EV4SQgA7TAA0ADgAPAT0BPwBaoQE+
 				gFOhAFmAEYASXxBCZmlsZTovLy9Vc2Vycy92aXRhbGlp
 				b2JlcnR5bnNreWkvRGV2L2Fzc29jaWF0aW9uLWRvbWFp
 				bi5naXRodWIuaW8vXxAzL1VzZXJzL3ZpdGFsaWlvYmVy
@@ -1080,7 +1070,7 @@
 							<key>label</key>
 							<string>Untitled Destination</string>
 							<key>lastBackup</key>
-							<date>2023-05-01T10:16:19Z</date>
+							<date>2023-05-09T13:09:28Z</date>
 							<key>maxConnections</key>
 							<integer>6</integer>
 							<key>path</key>
@@ -1131,18 +1121,30 @@
 					<true/>
 					<key>autoStartWebServer</key>
 					<false/>
+					<key>globalBody</key>
+					<string></string>
+					<key>globalBodyStart</key>
+					<string></string>
+					<key>globalCSS</key>
+					<string></string>
+					<key>globalHeader</key>
+					<string></string>
+					<key>globalJavascript</key>
+					<string></string>
+					<key>globalPrefix</key>
+					<string></string>
 					<key>hasChangedGlobalBody</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalBodyStart</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalCSS</key>
 					<false/>
 					<key>hasChangedGlobalHeader</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalJavascript</key>
 					<false/>
 					<key>hasChangedGlobalPrefix</key>
-					<false/>
+					<true/>
 					<key>iconPackage</key>
 					<data>
 					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z

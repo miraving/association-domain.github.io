@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"bfa3f4a54f751eca97c43daff489838f-0.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss","a6a2f6567d0f2b643627d72810c51b33-1.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss","archive-july-2018.html":"Archives for July 2018"};
+	var websiteMeta = {"archive-september-2019.html":"Archives for September 2019","archive-february-2017.html":"Archives for February 2017","archive-december-2018.html":"Archives for December 2018"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;

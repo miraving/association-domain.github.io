@@ -16,7 +16,7 @@
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Blog</string>
+				<string>Experience</string>
 				<key>PluginClassName</key>
 				<string>RWBlogPlugin</string>
 				<key>PluginMetadata</key>
@@ -33,70 +33,60 @@
 					<key>file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-05-01T10:16:18Z</date>
+						<date>2023-05-09T13:09:27Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/a6a2f6567d0f2b643627d72810c51b33-1.html</key>
+							<key>files/archive-december-2018.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								XYKL6lw3mTw6
-								GqafhhG4FQ==
+								ffW7JHebFW7w
+								CJY0Q2fOvA==
 								</data>
 								<key>Size</key>
-								<integer>6064</integer>
+								<integer>5780</integer>
 							</dict>
-							<key>files/archive-july-2018.html</key>
+							<key>files/archive-february-2017.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								jWR9JR5bSmbB
-								2FBQkYTM3A==
+								mivM6sMCXqH0
+								iOKUqlxQBA==
 								</data>
 								<key>Size</key>
-								<integer>5639</integer>
+								<integer>6011</integer>
 							</dict>
-							<key>files/bfa3f4a54f751eca97c43daff489838f-0.html</key>
+							<key>files/archive-september-2019.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Q2gD6w/xdY4N
-								aGybH7Se7w==
+								n8UQ2rhaDSmc
+								rAp/B4tf3A==
 								</data>
 								<key>Size</key>
-								<integer>6036</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								9Mf+F64qD9aJ
-								sPbAlpXTjQ==
-								</data>
-								<key>Size</key>
-								<integer>2512</integer>
+								<integer>5833</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								YM8Iwaz32ELb
-								9Zq66v3bng==
+								4gqd31ytzDu8
+								oCjSmvC6AQ==
 								</data>
 								<key>Size</key>
-								<integer>1965</integer>
+								<integer>1701</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								WNGLudhdEt01
-								POcSTpKL3A==
+								4wzXgi+gkayX
+								gKFI7tLIvg==
 								</data>
 								<key>Size</key>
-								<integer>5399</integer>
+								<integer>8763</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
