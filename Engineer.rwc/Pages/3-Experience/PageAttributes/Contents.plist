@@ -14,7 +14,7 @@
 					<key>default</key>
 					<true/>
 					<key>file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict/>
@@ -35,7 +35,7 @@
 				<key>HasCustomThemeStyle</key>
 				<false/>
 				<key>Hidden</key>
-				<false/>
+				<true/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>
