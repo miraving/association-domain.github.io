@@ -140,7 +140,7 @@
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2023-05-12T08:12:43Z</date>
+				<date>2023-05-12T08:21:03Z</date>
 				<key>LastID</key>
 				<integer>2</integer>
 				<key>LastSavedBuildDate</key>
@@ -151,6 +151,10 @@
 				<string>Permalink</string>
 				<key>PrependSummaryToPost</key>
 				<false/>
+				<key>RSSCopyrightText</key>
+				<string>Copyright 2023 Vitalii Obertynskyi</string>
+				<key>RSSCreator</key>
+				<string>Vitalii Obertynskyi</string>
 				<key>RSSCustomFeedFilename</key>
 				<string>feed.xml</string>
 				<key>RSSDescription</key>
@@ -158,7 +162,7 @@
 				<key>RSSFeedLinkText</key>
 				<string>RSS</string>
 				<key>RSSLanguage</key>
-				<string>English</string>
+				<string>Ukranian</string>
 				<key>RSSTitleText</key>
 				<string>RSS</string>
 				<key>ReadMoreText</key>

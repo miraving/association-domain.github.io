@@ -39,7 +39,7 @@
 					<key>file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-05-12T08:12:52Z</date>
+						<date>2023-05-12T08:21:12Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -68,11 +68,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								IV+Hs4TwHnFs
-								ZUpVNKuHuw==
+								dlWJ7SaOHoS4
+								3uvYZQedLQ==
 								</data>
 								<key>Size</key>
-								<integer>1699</integer>
+								<integer>1844</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
