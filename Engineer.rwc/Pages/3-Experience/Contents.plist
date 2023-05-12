@@ -33,7 +33,7 @@
 					<key>file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2023-05-11T17:27:59Z</date>
+						<date>2023-05-12T08:12:52Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -42,31 +42,31 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								DazJNiJDTTpi
-								JPa2GKx2Hw==
+								JfjckYcfCVvy
+								TaLDIfqXSw==
 								</data>
 								<key>Size</key>
-								<integer>5780</integer>
+								<integer>5610</integer>
 							</dict>
 							<key>files/archive-february-2017.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								fToWvdJP+i/+
-								HPnE7MCDyw==
+								yGE0ZzmsB5wc
+								ZsIncnYuHw==
 								</data>
 								<key>Size</key>
-								<integer>6011</integer>
+								<integer>5841</integer>
 							</dict>
 							<key>files/archive-september-2019.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DYGk7TOYRMpB
-								WCWxEjhTNA==
+								LBA5E++vlcdZ
+								h+MzNYZa/g==
 								</data>
 								<key>Size</key>
-								<integer>5833</integer>
+								<integer>5663</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
@@ -82,11 +82,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								feDAXdIxe0/q
-								Ekg9QwG95A==
+								GIs4wmKbY1b3
+								kwdVDb84Zg==
 								</data>
 								<key>Size</key>
-								<integer>8763</integer>
+								<integer>8595</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

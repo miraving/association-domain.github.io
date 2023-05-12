@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-may-2023.html":"Archives for May 2023","1deec6b5a058f9fc38e59404526d6cfc-0.html":"#Теми подкаста\n\n1.\tFoMo - як з цим жити \/ як побороти \n2.\tЕмоційне вигорання на роботі \n\n> Podcast"};
+	var websiteMeta = {"archive-may-2023.html":"Archives for May 2023","1deec6b5a058f9fc38e59404526d6cfc-0.html":"#Теми подкаста\n\n1.\tFoMo - як з цим жити \/ як побороти \n2.\tЕмоційне вигорання на роботі \n\n> Podcast\n\np.s. Насамперед важливо було розпочати )"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;

@@ -79,7 +79,7 @@
 				<key>EnableCustomiTunesTags</key>
 				<false/>
 				<key>EnablePodcasting</key>
-				<false/>
+				<true/>
 				<key>EnableRSS</key>
 				<true/>
 				<key>EnableSmileys</key>
@@ -118,7 +118,7 @@
 						<key>ID</key>
 						<integer>0</integer>
 						<key>PodcastFilename</key>
-						<string>/Users/vitaliiobertynskyi/Documents/_PODCAST/s1/s1e1 - 2.m4a</string>
+						<string>/Users/vitaliiobertynskyi/Dev/association-domain.github.io/Engineer.rwc/Resources/7B73C81E-64DD-4247-A591-3C6E8D8098EA/s1e1 - 2.m4a</string>
 						<key>Posted</key>
 						<date>2023-05-11T17:07:58Z</date>
 						<key>PublishStatus</key>
@@ -140,7 +140,7 @@
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<false/>
 				<key>LastBuildDate</key>
-				<date>2023-05-12T08:05:29Z</date>
+				<date>2023-05-12T08:12:43Z</date>
 				<key>LastID</key>
 				<integer>2</integer>
 				<key>LastSavedBuildDate</key>
