@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/vitaliiobertynskyi/Dev/association-domain.github.io/</key>
+					<true/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Engineer</key>
+					<dict>
+						<key>%colour_nav_bg%</key>
+						<string>rgba(131,131,131,1.00)</string>
+						<key>%colour_primary%</key>
+						<string>rgba(44,255,184,1.00)</string>
+					</dict>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<true/>
+				<key>CustomLanguage</key>
+				<string>en</string>
+				<key>CustomSiteTitle</key>
+				<string>Podcasts</string>
+				<key>CustomSiteTitleUsed</key>
+				<true/>
+				<key>CustomSloganUsed</key>
+				<true/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>podcasts</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
+				<true/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginExtension</key>
+				<string>html</string>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Engineer</key>
+					<array>
+						<string>Banner Background.Brightness</string>
+						<string>Banner.Show Divider</string>
+						<string>Banner.Uppercase Title</string>
+						<string>Content Width.Pixels</string>
+						<string>General.Center Headings</string>
+						<string>Navigation.Logo</string>
+						<string>Navigation.Uppercase Links</string>
+					</array>
+				</dict>
+				<key>UseCustomLanguage</key>
+				<false/>
+				<key>Variables</key>
+				<dict>
+					<key>%body_font_size%</key>
+					<string>20</string>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
